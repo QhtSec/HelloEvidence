@@ -1,0 +1,271 @@
+{'pid': 0, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'System Idle Process'}
+{'pid': 4, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'System'}
+{'pid': 72, 'username': 'NT AUTHORITY\\SYSTEM', 'name': ''}
+{'pid': 96, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 132, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'Registry'}
+{'pid': 244, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'Code.exe'}
+{'pid': 492, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'smss.exe'}
+{'pid': 696, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'csrss.exe'}
+{'pid': 808, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'wininit.exe'}
+{'pid': 856, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'services.exe'}
+{'pid': 868, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'csrss.exe'}
+{'pid': 916, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'LsaIso.exe'}
+{'pid': 928, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'lsass.exe'}
+{'pid': 948, 'username': 'Font Driver Host\\UMFD-0', 'name': 'fontdrvhost.exe'}
+{'pid': 1068, 'username': 'NT AUTHORITY\\NETWORK SERVICE', 'name': 'svchost.exe'}
+{'pid': 1152, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 1160, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'winlogon.exe'}
+{'pid': 1168, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'brave.exe'}
+{'pid': 1240, 'username': 'Font Driver Host\\UMFD-1', 'name': 'fontdrvhost.exe'}
+{'pid': 1360, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 1368, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'pid': 1372, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'pid': 1376, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'pid': 1532, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'pid': 1632, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'pid': 1640, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 1668, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'Code.exe'}
+{'pid': 1692, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'pid': 1744, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'pid': 1752, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 1760, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'IntelCpHDCPSvc.exe'}
+{'pid': 1776, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'pid': 1900, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'vmware-tray.exe'}
+{'pid': 2100, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 2108, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'IntelCpHeciSvc.exe'}
+{'pid': 2144, 'username': 'NT AUTHORITY\\NETWORK SERVICE', 'name': 'svchost.exe'}
+{'pid': 2164, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 2192, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'Code.exe'}
+{'pid': 2200, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 2232, 'username': 'Window Manager\\DWM-1', 'name': 'dwm.exe'}
+{'pid': 2248, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'ApplicationFrameHost.exe'}
+{'pid': 2296, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 2312, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'brave.exe'}
+{'pid': 2356, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 2364, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'agentbeat.exe'}
+{'pid': 2468, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'SystemSettings.exe'}
+{'pid': 2548, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 2588, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'pid': 2632, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'NVDisplay.Container.exe'}
+{'pid': 2676, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'pid': 2732, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 2828, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'pid': 2896, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 2900, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 2912, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'pid': 2944, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'SearchApp.exe'}
+{'pid': 3036, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'powershell.exe'}
+{'pid': 3040, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'pid': 3048, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 3056, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 3168, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'igfxCUIService.exe'}
+{'pid': 3192, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'pid': 3260, 'username': 'NT AUTHORITY\\NETWORK SERVICE', 'name': 'svchost.exe'}
+{'pid': 3276, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 3340, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 3360, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'pid': 3488, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'pid': 3560, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'taskhostw.exe'}
+{'pid': 3596, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'msedgewebview2.exe'}
+{'pid': 3640, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 3648, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 3660, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 3700, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 3708, 'username': 'NT AUTHORITY\\NETWORK SERVICE', 'name': 'svchost.exe'}
+{'pid': 3732, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'pid': 3868, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'sihost.exe'}
+{'pid': 3876, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'UserOOBEBroker.exe'}
+{'pid': 3896, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'svchost.exe'}
+{'pid': 3904, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'svchost.exe'}
+{'pid': 3952, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'PresentationFontCache.exe'}
+{'pid': 3988, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'svchost.exe'}
+{'pid': 4044, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'pid': 4180, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'pid': 4188, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'pid': 4200, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'pid': 4212, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'powershell.exe'}
+{'pid': 4340, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'WmiPrvSE.exe'}
+{'pid': 4408, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 4516, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'brave.exe'}
+{'pid': 4576, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 4628, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'igfxEM.exe'}
+{'pid': 4648, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'msedgewebview2.exe'}
+{'pid': 4676, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'brave.exe'}
+{'pid': 4736, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 4788, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'OneDriveStandaloneUpdater.exe'}
+{'pid': 4812, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'ctfmon.exe'}
+{'pid': 4824, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'brave.exe'}
+{'pid': 4948, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'brave.exe'}
+{'pid': 4956, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'spoolsv.exe'}
+{'pid': 4972, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'dasHost.exe'}
+{'pid': 5020, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'WUDFHost.exe'}
+{'pid': 5100, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 5136, 'username': 'NT AUTHORITY\\NETWORK SERVICE', 'name': 'svchost.exe'}
+{'pid': 5208, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'WUCSProxyService.exe'}
+{'pid': 5300, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'RuntimeBroker.exe'}
+{'pid': 5336, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'MemCompression'}
+{'pid': 5376, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'WUDFHost.exe'}
+{'pid': 5424, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 5580, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'pid': 5584, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'armsvc.exe'}
+{'pid': 5684, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'pid': 5692, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'conhost.exe'}
+{'pid': 5696, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'WUDFHost.exe'}
+{'pid': 5740, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 5752, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'msedgewebview2.exe'}
+{'pid': 5772, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'NVDisplay.Container.exe'}
+{'pid': 5820, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'msedgewebview2.exe'}
+{'pid': 5828, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'dllhost.exe'}
+{'pid': 5896, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'conhost.exe'}
+{'pid': 5928, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'WUDFHost.exe'}
+{'pid': 6004, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'HiConnectivityService.exe'}
+{'pid': 6040, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'explorer.exe'}
+{'pid': 6364, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'pid': 6616, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'pid': 6688, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'msedgewebview2.exe'}
+{'pid': 6748, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'SearchIndexer.exe'}
+{'pid': 6776, 'username': 'NT AUTHORITY\\NETWORK SERVICE', 'name': 'svchost.exe'}
+{'pid': 6792, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 6828, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'HWVEAudioService.exe'}
+{'pid': 6940, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'LCD_Service.exe'}
+{'pid': 6948, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'HwDistributedMainService.exe'}
+{'pid': 6972, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'MateBookService.exe'}
+{'pid': 6992, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'osdservice.exe'}
+{'pid': 6996, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'BasicService.exe'}
+{'pid': 7004, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 7032, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'IntelAudioService.exe'}
+{'pid': 7044, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'python.exe'}
+{'pid': 7072, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'OneApp.IGCC.WinService.exe'}
+{'pid': 7080, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'pid': 7112, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'NahimicService.exe'}
+{'pid': 7176, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'jhi_service.exe'}
+{'pid': 7196, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 7208, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'elastic-agent.exe'}
+{'pid': 7216, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'OfficeClickToRun.exe'}
+{'pid': 7256, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'SessionService.exe'}
+{'pid': 7264, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'RtkAudUService64.exe'}
+{'pid': 7280, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'pid': 7308, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'MpDefenderCoreService.exe'}
+{'pid': 7364, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 7428, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'vmware-authd.exe'}
+{'pid': 7448, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'vmnetdhcp.exe'}
+{'pid': 7476, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'vmnat.exe'}
+{'pid': 7484, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'esif_uf.exe'}
+{'pid': 7512, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 7540, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'WMIRegistrationService.exe'}
+{'pid': 7556, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'wazuh-agent.exe'}
+{'pid': 7568, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 7580, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'MsMpEng.exe'}
+{'pid': 7588, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'msedgewebview2.exe'}
+{'pid': 7608, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'vmware-usbarbitrator64.exe'}
+{'pid': 7616, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'wslservice.exe'}
+{'pid': 7628, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'pid': 7656, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'CptService.exe'}
+{'pid': 7700, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'Sysmon.exe'}
+{'pid': 7792, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'HWVEAudioSession.exe'}
+{'pid': 8084, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 8120, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'conhost.exe'}
+{'pid': 8312, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'pid': 8488, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'svchost.exe'}
+{'pid': 8856, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'conhost.exe'}
+{'pid': 8876, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'unsecapp.exe'}
+{'pid': 8908, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'Code.exe'}
+{'pid': 9352, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'HiviewService.exe'}
+{'pid': 9404, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'brave.exe'}
+{'pid': 9552, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'RtkAudUService64.exe'}
+{'pid': 9776, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'powershell.exe'}
+{'pid': 9868, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'conhost.exe'}
+{'pid': 9988, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'dllhost.exe'}
+{'pid': 10252, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'conhost.exe'}
+{'pid': 10448, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'NahimicSvc64.exe'}
+{'pid': 10488, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'NahimicSvc32.exe'}
+{'pid': 10812, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'MBAMessageCenter.exe'}
+{'pid': 10816, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 10928, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'brave.exe'}
+{'pid': 10948, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'AggregatorHost.exe'}
+{'pid': 11196, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'HwMdcCenter.exe'}
+{'pid': 11432, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'unsecapp.exe'}
+{'pid': 11444, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'RuntimeBroker.exe'}
+{'pid': 11604, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'Code.exe'}
+{'pid': 11616, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'agentbeat.exe'}
+{'pid': 11620, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'aesm_service.exe'}
+{'pid': 11704, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'Code.exe'}
+{'pid': 11852, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'HwMdcUI.exe'}
+{'pid': 12000, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'StartMenuExperienceHost.exe'}
+{'pid': 12072, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'brave.exe'}
+{'pid': 12092, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'brave.exe'}
+{'pid': 12252, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'agentbeat.exe'}
+{'pid': 12292, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'conhost.exe'}
+{'pid': 12552, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'fleet-server.exe'}
+{'pid': 12672, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'RuntimeBroker.exe'}
+{'pid': 12816, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'brave.exe'}
+{'pid': 12820, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 12896, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'powershell.exe'}
+{'pid': 12924, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'Code.exe'}
+{'pid': 12936, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'conhost.exe'}
+{'pid': 13108, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'MessageCenterUI.exe'}
+{'pid': 13128, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'SearchApp.exe'}
+{'pid': 13320, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'brave.exe'}
+{'pid': 13512, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'brave.exe'}
+{'pid': 13736, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'agentbeat.exe'}
+{'pid': 13912, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'agentbeat.exe'}
+{'pid': 13976, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'conhost.exe'}
+{'pid': 14012, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'agentbeat.exe'}
+{'pid': 14044, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'conhost.exe'}
+{'pid': 14168, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'RuntimeBroker.exe'}
+{'pid': 14180, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'brave.exe'}
+{'pid': 14188, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'agentbeat.exe'}
+{'pid': 14196, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'brave.exe'}
+{'pid': 14216, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'conhost.exe'}
+{'pid': 14232, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'conhost.exe'}
+{'pid': 14412, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'TextInputHost.exe'}
+{'pid': 14472, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'WindowsPackageManagerServer.exe'}
+{'pid': 14708, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 14756, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'NisSrv.exe'}
+{'pid': 14924, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'svchost.exe'}
+{'pid': 14964, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'LockApp.exe'}
+{'pid': 15112, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'FileCoAuth.exe'}
+{'pid': 15200, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'pid': 15220, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'pid': 15368, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'brave.exe'}
+{'pid': 15388, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'OneDrive.exe'}
+{'pid': 15504, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 15592, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'dptf_helper.exe'}
+{'pid': 15808, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'brave.exe'}
+{'pid': 15876, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'PhoneExperienceHost.exe'}
+{'pid': 15980, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'brave.exe'}
+{'pid': 16152, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'CompPkgSrv.exe'}
+{'pid': 16232, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'SecurityHealthSystray.exe'}
+{'pid': 16300, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'RtkAudUService64.exe'}
+{'pid': 16312, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'ShellExperienceHost.exe'}
+{'pid': 16316, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'taskhostw.exe'}
+{'pid': 16364, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'SecurityHealthService.exe'}
+{'pid': 16376, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 16452, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'brave.exe'}
+{'pid': 16576, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'brave.exe'}
+{'pid': 16700, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'Code.exe'}
+{'pid': 17000, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'brave.exe'}
+{'pid': 17132, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'smartscreen.exe'}
+{'pid': 17140, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'brave.exe'}
+{'pid': 17220, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'brave.exe'}
+{'pid': 17256, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe'}
+{'pid': 17380, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'brave.exe'}
+{'pid': 17392, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'brave.exe'}
+{'pid': 17588, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'brave.exe'}
+{'pid': 17852, 'username': 'NT AUTHORITY\\NETWORK SERVICE', 'name': 'svchost.exe'}
+{'pid': 17872, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 17924, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'conhost.exe'}
+{'pid': 17976, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'RuntimeBroker.exe'}
+{'pid': 17980, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'RuntimeBroker.exe'}
+{'pid': 17992, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 18036, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'conhost.exe'}
+{'pid': 18124, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 18200, 'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe'}
+{'pid': 18664, 'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'WUDFHost.exe'}
+{'pid': 19008, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'brave.exe'}
+{'pid': 19196, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'WinStore.App.exe'}
+{'pid': 19212, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'cmd.exe'}
+{'pid': 19404, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'Code.exe'}
+{'pid': 19640, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'conhost.exe'}
+{'pid': 19820, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'powershell.exe'}
+{'pid': 20388, 'username': 'DESKTOP-FKA7H88\\USER', 'name': 'Code.exe'}
