@@ -1,20 +1,16 @@
 # Hello Evidence - DFIR Script
 
 ## Description
-This is the first script that automates the collection of DFIR (Digital Forensics and Incident Response) artifacts. It collects system information, running processes, network connections, browser history, and Windows event logs.
+This is my first script that try to collect simple artifacts. It collects system information like running processes, network connections, and Windows security event logs.
 
-## Features
-- Collects running processes
-- Extracts active network connections
-- Retrieves browser history from Google Chrome
-- Downloads security event logs from Windows
+
 
 ## Installation
-To use this script, you need Python installed on your system. Follow these steps to get started:
+To use this script, you need Python installed. Follow these steps to get started:
 
 1. Install Python (if you haven’t already):
     ```bash
-    choco install python
+    choco install python # you need to install choco before ..
     ```
 
 2. Install the necessary Python libraries:
@@ -24,7 +20,7 @@ To use this script, you need Python installed on your system. Follow these steps
 
 3. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/HelloEvidence.git
+    git clone https://github.com/QhtSec/HelloEvidence.git
     ```
 
 4. Run the script:
@@ -33,6 +29,6 @@ To use this script, you need Python installed on your system. Follow these steps
     ```
 
 ## Usage
-Run the script to collect DFIR artifacts:
+Run the script to collect simple artifacts:
 ```bash
-python hello_evidence.py
+python HelloEvidence.py
