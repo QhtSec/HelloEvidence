@@ -25,7 +25,7 @@ To use this script, you need Python installed. Follow these steps to get started
 
 4. Run the script:
     ```bash
-    python hello_evidence.py
+    python HelloEvidence.py
     ```
 
 ## Usage
