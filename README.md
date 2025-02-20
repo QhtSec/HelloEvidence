@@ -36,9 +36,8 @@ Run the script to collect simple artifacts and choose any format that you like:
 NOTE: The script needs to be run with Administrator privileges to extract the security logs.
 ```bash
 python HelloEvidence.py
-
+```
 After execution, the script will create a folder named "DFIR_Artifact" and generate three files inside it:
-
 Process info file
 Network info file
 Security logs file
