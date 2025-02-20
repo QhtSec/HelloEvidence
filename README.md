@@ -38,6 +38,6 @@ NOTE: The script needs to be run with Administrator privileges to extract the se
 python HelloEvidence.py
 ```
 After execution, the script will create a folder named "DFIR_Artifact" and generate three files inside it:
-Process info file
-Network info file
-Security logs file
+Process info file,
+ Network info file,
+  Security logs file.
