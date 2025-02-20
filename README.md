@@ -5,6 +5,8 @@ This is my first script that try to collect simple artifacts. It will ask you to
 
 
 
+
+
 ## Installation
 To use this script, you need Python installed. Follow these steps to get started:
 
@@ -30,5 +32,13 @@ To use this script, you need Python installed. Follow these steps to get started
 
 ## Usage
 Run the script to collect simple artifacts and choose any format that you like:
+
+NOTE: The script needs to be run with Administrator privileges to extract the security logs.
 ```bash
 python HelloEvidence.py
+
+After execution, the script will create a folder named "DFIR_Artifact" and generate three files inside it:
+
+Process info file
+Network info file
+Security logs file
