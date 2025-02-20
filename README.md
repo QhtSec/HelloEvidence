@@ -1,7 +1,7 @@
 # Hello Evidence - DFIR Script
 
 ## Description
-This is my first script that try to collect simple artifacts. It collects system information like running processes, network connections, and Windows security event logs.
+This is my first script that try to collect simple artifacts. It will ask you to choose output format json, csv or txt, then it will collects system information like running processes, network connections, and Windows security event logs.
 
 
 
@@ -29,6 +29,6 @@ To use this script, you need Python installed. Follow these steps to get started
     ```
 
 ## Usage
-Run the script to collect simple artifacts:
+Run the script to collect simple artifacts and choose any format that you like:
 ```bash
 python HelloEvidence.py
